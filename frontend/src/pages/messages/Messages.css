@@ -1,0 +1,35 @@
+.messages-container {
+  padding: 2rem;
+  flex-grow: 1;
+  background-color: var(--app-secondary-background);
+  color: var(--app-text-color);
+}
+
+.messages-list {
+  list-style: none;
+  padding: 0;
+}
+
+.message-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--message-background);
+  border: 1px solid var(--message-border-color);
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 5px;
+}
+
+.message-item button {
+  background: var(--button-background);
+  color: var(--button-hover-text-color);
+  border: 1px solid var(--button-border-color);
+  padding: 0.4rem 0.8rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.message-item button:hover {
+  background-color: var(--button-hover-background);
+}

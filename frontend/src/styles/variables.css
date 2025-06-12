@@ -1,0 +1,44 @@
+:root {
+  --app-background: #ffffff;
+  --app-text-color: #000000;
+  --app-secondary-background: #f8f9fa;
+
+
+  --header-background: #f8f9fa;
+  --header-border-color: #dee2e6;
+  --footer-background: #f8f9fa;
+  --footer-border-color: #dee2e6;
+
+
+  --nav-link-color: #000000;
+  --nav-link-hover-background: #e9ecef;
+
+
+  --button-background: #dee3ea;
+  --button-border-color: #a1a5a9;
+  --button-hover-background: #e2e6ea;
+  --button-hover-text-color: #000000;
+  
+
+  --card-background: #ffffff;
+  --card-border-color: #dee2e6;
+  --card-shadow: rgba(0, 0, 0, 0.1);
+
+
+  --encryption-success-color: #32CD32;
+  --encryption-error-color: #FF6347;
+  --encryption-field-background: #f1f3f5;
+
+
+  --message-background: #f9fafb;
+  --message-border-color: #ced4da;
+
+
+  --input-background: #ffffff;
+  --input-border-color: #ced4da;
+  --input-text-color: #000000;
+
+
+  --primary-accent: #3b82f6;
+  --primary-accent-hover: #60a5fa;
+}
